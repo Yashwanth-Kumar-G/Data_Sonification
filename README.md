@@ -73,3 +73,8 @@ Then open the given local URL in your browser
 - Pillow (PIL) – Image processing
 - Pydub – Audio generation
 - FFmpeg – Required for audio handling
+
+---
+
+## Contributing
+- Contributions are welcome! Please feel free to open issues or submit pull requests.
