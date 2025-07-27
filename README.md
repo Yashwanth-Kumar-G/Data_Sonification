@@ -1,4 +1,4 @@
-# CSV → RGB Image → Sound → Decode → Download
+# CSV → RGB Image → Sound → Decode 
 
 This project converts a numeric CSV matrix into a **colorful RGB image**, generates **audio** representing the data, and allows decoding it back into the numeric matrix. Users can visualize their data as an image, listen to its sonification, and download the reconstructed values.
 
